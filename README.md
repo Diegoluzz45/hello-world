@@ -1,2 +1,5 @@
 # hello-world
-Here I'm gonna put my ideas for some projects and things which I think is important
+
+
+
+I'm trying to do this shit but I don't think it is working
